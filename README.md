@@ -39,5 +39,5 @@ Programador y analista de datos. 🚀
 ### 📊 Análisis de Datos y Machine Learning
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [ML_MercadoInmobiliario](https://github.com/davidcabrero/ML_MercadoInmobiliario) | Predicción de precios de casas en Dinamarca. | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) |
+| [ML_MercadoInmobiliario](https://github.com/davidcabrero/ML_MercadoInmobiliario) | Predicción de precios de casas en Dinamarca. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [EDA_Paramount](https://github.com/davidcabrero/EDA_PARAMOUNT) | Análisis exploratorio de datos de Paramount Plus. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
