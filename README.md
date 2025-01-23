@@ -18,6 +18,7 @@ Programador y analista de datos. 🚀
 | [ChatIA](https://github.com/davidcabrero/ChatIA) | Chat con inteligencia artificial. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [ToolsApp](https://github.com/davidcabrero/ToolsApp) | Herramientas para procesamiento de imágenes y textos. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [EditorFotos](https://github.com/davidcabrero/EditorFotos) | Edición de fotos: filtros, efectos y más. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [Folixa](https://github.com/davidcabrero/Folixa) | App de gestión de discotecas y social. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [WebPersonal](https://github.com/davidcabrero/WebPersonal) | Web personal para mostrar mi portfolio. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [AngryBirds](https://github.com/davidcabrero/AngryBirds) | Juego de Angry Birds en Unity. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [InciGest](https://github.com/davidcabrero/InciGest) | Gestión de incidencias y mantenimiento de software. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
