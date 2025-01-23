@@ -12,8 +12,8 @@ Programador y analista de datos. 🚀
 | [ChatBot](https://github.com/davidcabrero/chatbot) | Asistente IA para generar código, gráficos, analizar archivos y más. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [WellMap](https://github.com/davidcabrero/wellmap) | Webapp de mapas para buscar lugares y crear rutas. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [Editter](https://github.com/davidcabrero/Editter) | Programa para editar, unir, proteger y resumir PDFs. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
-| [EditterIA](https://github.com/davidcabrero/EditterIA) | Utilidad IA para interactuar con PDFs. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
-| [AI Gemini](https://github.com/davidcabrero/AI_Gemini) | WebApp de inteligencia artificial con la API de Gemini. | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
+| [EditterIA](https://github.com/davidcabrero/EditterIA) | Utilidad IA para interactuar con PDFs. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [AI Gemini](https://github.com/davidcabrero/AI_Gemini) | WebApp de inteligencia artificial con la API de Gemini. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [PadelManager](https://github.com/davidcabrero/PadelManager) | Gestión de torneos de pádel: equipos, resultados y clasificaciones. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [ChatIA](https://github.com/davidcabrero/ChatIA) | Chat con inteligencia artificial. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [ToolsApp](https://github.com/davidcabrero/ToolsApp) | Herramientas para procesamiento de imágenes y textos. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
