@@ -11,7 +11,7 @@ Programador y analista de datos. 🚀
 |----------|-------------|-------------|
 | [ChatBot](https://github.com/davidcabrero/chatbot) | Asistente IA para generar código, gráficos, analizar archivos y más. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [InciGest](https://github.com/davidcabrero/InciGest) | Gestión de incidencias y mantenimiento de software. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
-| [AnalizadorLogs](https://github.com/davidcabrero/AnalizadorLogs) | Análisis y visualización de logs. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
+| [AnalizadorLogs](https://github.com/davidcabrero/AnalizadorLogs) | Análisis y visualización de comprtamiento de apps. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
 | [Folixa](https://github.com/davidcabrero/Folixa) | App de gestión de discotecas y social. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [ToolsApp](https://github.com/davidcabrero/ToolsApp) | Herramientas para procesamiento de imágenes y textos. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [EditorFotos](https://github.com/davidcabrero/EditorFotos) | Edición de fotos: filtros, efectos y más. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
@@ -40,5 +40,5 @@ Programador y analista de datos. 🚀
 ### 📊 Análisis de Datos y Machine Learning
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [ML_MercadoInmobiliario](https://github.com/davidcabrero/ML_MercadoInmobiliario) | Predicción de precios de casas en Dinamarca. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [ML_MercadoInmobiliario](https://github.com/davidcabrero/ML_MercadoInmobiliario) | Predicción del mercado inmobiliario en Dinamarca. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [EDA_Paramount](https://github.com/davidcabrero/EDA_PARAMOUNT) | Análisis exploratorio de datos de Paramount Plus. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
