@@ -22,18 +22,18 @@ Programador y analista de datos. 🚀
 | [WebPersonal](https://github.com/davidcabrero/WebPersonal) | Web personal para mostrar mi portfolio. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [AngryBirds](https://github.com/davidcabrero/AngryBirds) | Juego de Angry Birds en Unity. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [InciGest](https://github.com/davidcabrero/InciGest) | Gestión de incidencias y mantenimiento de software. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
-| [AnalizadorLogs](https://github.com/davidcabrero/AnalizadorLogs) | Análisis y visualización de logs. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
+| [AnalizadorLogs](https://github.com/davidcabrero/AnalizadorLogs) | Análisis y visualización de logs. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
 | [ClinicaVeterinaria](https://github.com/davidcabrero/ClinicaVeterinaria) | Gestión de clínica veterinaria. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
-| [Trabajo-XML-y-JAVA](https://github.com/davidcabrero/Trabajo-XML-y-JAVA) | Aplicación para manejo de datos con XML y Java. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
+| [Trabajo-XML-y-JAVA](https://github.com/davidcabrero/Trabajo-XML-y-JAVA) | Aplicación para manejo de datos con XML y Java. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
 | [QuizzPHP](https://github.com/davidcabrero/QuizzPHP) | Webapp de juego de preguntas. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [VerbosIrregulares](https://github.com/davidcabrero/VerbosIrregulares) | Test de verbos irregulares. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| [Ficheros_Java](https://github.com/davidcabrero/Ficheros_Java) | Manejo de CSV de restaurantes. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
+| [Ficheros_Java](https://github.com/davidcabrero/Ficheros_Java) | Manejo de CSV de restaurantes. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
 | [Pokedex_C](https://github.com/davidcabrero/Pokedex_C) | App de una Pokedex. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
-| [iSonidos](https://github.com/davidcabrero/iSonidos) | App Android con vídeos y sonidos graciosos. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
+| [iSonidos](https://github.com/davidcabrero/iSonidos) | App Android con vídeos y sonidos graciosos. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
 | [Ahorcado_C](https://github.com/davidcabrero/Ahorcado_C) | Juego del ahorcado en C#. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
-| [Java_Calculadora](https://github.com/davidcabrero/Java_Calculadora) | Calculadora en Java. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
-| [Java_Ahorcado](https://github.com/davidcabrero/Java_Ahorcado) | Juego del ahorcado en Java. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
-| [Arkanoid](https://github.com/davidcabrero/Arkanoid) | Juego Arkanoid en Eclipse con ACM. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
+| [Java_Calculadora](https://github.com/davidcabrero/Java_Calculadora) | Calculadora en Java. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
+| [Java_Ahorcado](https://github.com/davidcabrero/Java_Ahorcado) | Juego del ahorcado en Java. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
+| [Arkanoid](https://github.com/davidcabrero/Arkanoid) | Juego Arkanoid en Eclipse con ACM. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
 
 ---
 
