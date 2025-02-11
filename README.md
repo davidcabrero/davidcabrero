@@ -1,6 +1,6 @@
 # 👋 David Cabrero
 
-Programador y analista de datos. 🚀
+Software Developer & Data Scientist. 🚀
 
 ---
 
