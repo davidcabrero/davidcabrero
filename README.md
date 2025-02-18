@@ -43,3 +43,4 @@ Software Developer & Data Scientist. 🚀
 | [ML_MercadoInmobiliario](https://github.com/davidcabrero/ML_MercadoInmobiliario) | Predicción del mercado inmobiliario en Dinamarca. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [EDA_Paramount](https://github.com/davidcabrero/EDA_PARAMOUNT) | Análisis exploratorio de datos de Paramount Plus. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [ML_Traductor](https://github.com/davidcabrero/ML_Traductor) | Modelo de ML de traducción entrenado. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [ML_Trafico](https://github.com/davidcabrero/ML_Trafico) | ML con el tráfico de la ciudad de Gijón | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
