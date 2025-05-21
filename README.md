@@ -19,6 +19,7 @@ Software Developer & Data Scientist. 🚀
 | [Editter](https://github.com/davidcabrero/Editter) | Programa para editar, unir, proteger y resumir PDFs. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [EditterIA](https://github.com/davidcabrero/EditterIA) | Utilidad IA para interactuar con PDFs. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [GasWay](https://github.com/davidcabrero/GasWay) | Buscador de gasolineras con precios y estadísticas. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [WikiBot_PNL](https://github.com/davidcabrero/WikiBot_PNL) | Bot con procesamiento de lenguaje natural y conocimiento de wikipedia. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [AI Gemini](https://github.com/davidcabrero/AI_Gemini) | WebApp de inteligencia artificial con la API de Gemini. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [WebPersonal](https://github.com/davidcabrero/WebPersonal) | Web personal para mostrar mi portfolio. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [AngryBirds](https://github.com/davidcabrero/AngryBirds) | Juego de Angry Birds en Unity. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
