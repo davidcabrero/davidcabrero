@@ -13,7 +13,7 @@ Software Developer & Data Scientist. 🚀
 | [InciGest](https://github.com/davidcabrero/InciGest) | Gestión de incidencias y mantenimiento de software. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [AnalizadorLogs](https://github.com/davidcabrero/AnalizadorLogs) | Análisis y visualización de comprtamiento de apps. | ![Java](https://img.shields.io/badge/-Java-A52A2A?logo=java&logoColor=white) |
 | [Folixa](https://github.com/davidcabrero/Folixa) | App de gestión de discotecas y social. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
-| [SanloBus](https://github.com/davidcabrero/SanloBus) | App de buses de la sierra de Madrid. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
+| [SanloBus](https://github.com/davidcabrero/SanloBus) | App de buses de la sierra de Madrid y meteorología. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [ToolsApp](https://github.com/davidcabrero/ToolsApp) | Herramientas para procesamiento de imágenes y textos. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [EditorFotos](https://github.com/davidcabrero/EditorFotos) | Edición de fotos: filtros, efectos y más. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [WellMap](https://github.com/davidcabrero/wellmap) | Webapp de mapas para buscar lugares y crear rutas. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
@@ -22,6 +22,7 @@ Software Developer & Data Scientist. 🚀
 | [GasWay](https://github.com/davidcabrero/GasWay) | Buscador de gasolineras con precios y estadísticas. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [WikiBot_PNL](https://github.com/davidcabrero/WikiBot_PNL) | Bot con procesamiento de lenguaje natural y conocimiento de wikipedia. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [ScrumIA](https://github.com/davidcabrero/ScrumIA) | Aplicación para automatizar la metodología Scrum en un equipo. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [AutomatizaBI](https://github.com/davidcabrero/AutomatizacionPowerBI) | Scripts de automatización de procesos en Power BI. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [AI Gemini](https://github.com/davidcabrero/AI_Gemini) | WebApp de inteligencia artificial con la API de Gemini. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [WebPersonal](https://github.com/davidcabrero/WebPersonal) | Web personal para mostrar mi portfolio. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [AngryBirds](https://github.com/davidcabrero/AngryBirds) | Juego de Angry Birds en Unity. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
