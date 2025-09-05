@@ -25,7 +25,7 @@ Software Developer & Data Scientist. 🚀
 | [AutomatizaBI](https://github.com/davidcabrero/AutomatizacionPowerBI) | Scripts de automatización de procesos en Power BI. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [AI Gemini](https://github.com/davidcabrero/AI_Gemini) | WebApp de inteligencia artificial con la API de Gemini. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [WebPersonal](https://github.com/davidcabrero/WebPersonal) | Web personal para mostrar mi portfolio. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| [Wallet](https://github.com/davidcabrero/WebPersonal) | Aplicación para pagar con el móvil. | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D47A1?logo=typescript&logoColor=white) |
+| [Wallet](https://github.com/davidcabrero/Wallet) | Aplicación para pagar con el móvil. | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D47A1?logo=typescript&logoColor=white) |
 | [AngryBirds](https://github.com/davidcabrero/AngryBirds) | Juego de Angry Birds en Unity. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [PadelManager](https://github.com/davidcabrero/PadelManager) | Gestión de torneos de pádel: equipos, resultados y clasificaciones. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [ChatIA](https://github.com/davidcabrero/ChatIA) | Chat con inteligencia artificial. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
