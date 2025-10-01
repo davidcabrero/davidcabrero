@@ -52,3 +52,4 @@ Software Developer & Data Scientist. 🚀
 | [ML_Trafico](https://github.com/davidcabrero/ML_Trafico) | ML con el tráfico del Principado de Asturias | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [Reconocimiento_Caracteres](https://github.com/davidcabrero/ReconocerCaracteres) | Reconocimiento de caracteres con redes neuronales. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [SudokuAI](https://github.com/davidcabrero/SudokuAI) | Resolución de sudoku por imágen con redes neuronales. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [PlantAid](https://github.com/davidcabrero/PlantAid) | Detector de enfermedades y especies de plantas con ML. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
