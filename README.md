@@ -16,6 +16,7 @@ Software Developer & Data Scientist. 🚀
 | [SanloBus](https://github.com/davidcabrero/SanloBus) | App de buses de la sierra de Madrid y meteorología. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [ToolsApp](https://github.com/davidcabrero/ToolsApp) | Herramientas para procesamiento de imágenes y textos. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [EditorFotos](https://github.com/davidcabrero/EditorFotos) | Edición de fotos: filtros, efectos y más. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [Jot](https://github.com/davidcabrero/Jot) | Editor de documentos interactivos. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [WellMap](https://github.com/davidcabrero/wellmap) | Webapp de mapas para buscar lugares y crear rutas. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [Editter](https://github.com/davidcabrero/Editter) | Programa para editar, unir, proteger y resumir PDFs. | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) |
 | [EditterIA](https://github.com/davidcabrero/EditterIA) | Utilidad IA para interactuar con PDFs. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
