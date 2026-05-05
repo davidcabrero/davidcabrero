@@ -1,10 +1,8 @@
-# 👋 David Cabrero
+# David Cabrero Jiménez
 
-Software Developer & Data Scientist. 🚀
+> Software Developer & Data Scientist.
 
 ---
-
-## 📂 Mis Proyectos
 
 ### 🌐 Aplicaciones
 | Proyecto | Descripción | Tecnologías |
