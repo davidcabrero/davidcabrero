@@ -4,6 +4,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-cabrero) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidcabrerojimenez@gmail.com)
 
+<p align="Left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidcabrero&theme=tokyonight"/>
+</p>
+
 ---
 
 ### 🌐 Aplicaciones
