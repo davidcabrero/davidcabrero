@@ -1,6 +1,6 @@
 # David Cabrero Jiménez
 
-> Software Developer & Data Scientist.&nbsp;&nbsp;<a href="https://www.linkedin.com/in/david-cabrero"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/></a>&nbsp;&nbsp;<a href="mailto:tuemail@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25"/></a>
+> Software Developer & Data Scientist.&nbsp;&nbsp;<a href="https://www.linkedin.com/in/david-cabrero"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/></a>&nbsp;&nbsp;<a href="mailto:davidcabrerojimenez@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25"/></a>
 
 <p align="left">
   <img width="45%" src="https://streak-stats.demolab.com?user=davidcabrero&theme=tokyonight&hide_border=false"/>
